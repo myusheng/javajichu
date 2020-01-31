@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a1d6175-5db9-4b18-83b7-281071570ce1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javajichu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14/ItestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14/ProxyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14/Study.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14/TestDemoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/day14/ItestDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/day14/Move.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/day14/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/day14/ProxyDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/day14/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/day14/Study.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/day14/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/day14/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/day14/TestDemoImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X8n7MX99iOEuXO5MbipnOhfU6S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Test2">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14.Test1" />
+      <module name="javajichu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14.Test2" />
+      <module name="javajichu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a1d6175-5db9-4b18-83b7-281071570ce1" name="Default Changelist" comment="" />
+      <created>1580436420124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580436420124</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="37" width="812" height="723" key="#Intentions" timestamp="1580458646305">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="37" width="812" height="723" key="#Intentions/0.0.1280.760@0.0.1280.760" timestamp="1580458646305" />
+    <state x="446" y="99" key="#com.intellij.ide.util.MemberChooser" timestamp="1580457337676">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="446" y="99" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1580457337676" />
+    <state x="294" y="0" key="CommitChangelistDialog2" timestamp="1580459928078">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="294" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1580459928078" />
+    <state x="421" y="124" key="FileChooserDialogImpl" timestamp="1580459880233">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="421" y="124" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1580459880233" />
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom" timestamp="1580459928097">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1580459928097" />
+    <state width="1238" height="190" key="GridCell.Tab.0.center" timestamp="1580459928097">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1580459928097" />
+    <state width="1238" height="190" key="GridCell.Tab.0.left" timestamp="1580459928096">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1580459928096" />
+    <state width="1238" height="190" key="GridCell.Tab.0.right" timestamp="1580459928097">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1580459928097" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1580438241107">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1580438241107" />
+    <state x="309" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1580455797673">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="309" y="88" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1580455797673" />
+  </component>
+</project>
